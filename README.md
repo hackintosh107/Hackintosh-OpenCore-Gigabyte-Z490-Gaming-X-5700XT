@@ -1,0 +1,1 @@
+# Hackintosh-Opencore-Gigabyte-Z490-Gaming-X-5700XT
