@@ -11,24 +11,21 @@
 
 # Working:
 - [x] AMD Radeon 5700XT
-- [x] Night shift
 - [x] Audio
 - [x] Microphone
 - [x] Ethernet
-- [x] iCloud - Facetime - iMessage - Siri
 - [x] CPU power management
-- [x] All USB ports
+- [x] USB ports
 
 # BIOS setup:
 - SATA mode: AHCI
 - Intel Virtualization Technology (VT-x): Enable
-- VT-d: Disable
+- VT-d: Enable
 - Boot mode: UEFI
 - CSM: Disable
 - Secure boot: Disable
-- Intergrated Graphics: Enable
 - DVMT Pre-allocated: 64M
 - DVMT Total: Max
 
 # SMBIOS:
-iMac20,2
+iMac20,1
