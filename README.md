@@ -1,4 +1,4 @@
-# Hackintosh-Opencore-Gigabyte-Z490-Gaming-X-5700XT
+# Hackintosh-OpenCore-Gigabyte-Z490-Gaming-X-5700XT
 
 # Specifications:
 * CPU: Intel Core i7-10700K
@@ -7,7 +7,7 @@
 * Ethernet: Intel® GbE LAN chip (1000 Mbit/100 Mbit)
 
 # Version: 
-* Opencore: 0.6.1
+* OpenCore: 0.6.2
 
 # Working:
 - [x] AMD Radeon 5700XT
